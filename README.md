@@ -1,2 +1,1 @@
-# raspberry-lcd
-🌿 · Ejemplo del uso de un lcd de 16x2 con una Raspberry Pi 3/4
+# 🌿 · Cuando tenga tiempo os explico, no es tan complicado de hacerlo <3
